@@ -1,2 +1,2 @@
 # Kodilla_m07
-Module 7 tasks
+7th module tasks
